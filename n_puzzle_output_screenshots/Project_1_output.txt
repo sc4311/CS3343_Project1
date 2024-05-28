@@ -1,0 +1,145 @@
+Test 1
+i: 1; j:1; step size: 1. Toggling door number 1.
+i: 1; j:2; step size: 1. Toggling door number 2.
+i: 1; j:3; step size: 1. Toggling door number 3.
+i: 1; j:4; step size: 1. Toggling door number 4.
+i: 1; j:5; step size: 1. Toggling door number 5.
+i: 1; j:6; step size: 1. Toggling door number 6.
+i: 1; j:7; step size: 1. Toggling door number 7.
+i: 1; j:8; step size: 1. Toggling door number 8.
+i: 1; j:9; step size: 1. Toggling door number 9.
+i: 1; j:10; step size: 1. Toggling door number 10.
+i: 2; j:2; step size: 2. Toggling door number 2.
+i: 2; j:4; step size: 2. Toggling door number 4.
+i: 2; j:6; step size: 2. Toggling door number 6.
+i: 2; j:8; step size: 2. Toggling door number 8.
+i: 2; j:10; step size: 2. Toggling door number 10.
+i: 3; j:3; step size: 3. Toggling door number 3.
+i: 3; j:6; step size: 3. Toggling door number 6.
+i: 3; j:9; step size: 3. Toggling door number 9.
+i: 4; j:4; step size: 4. Toggling door number 4.
+i: 4; j:8; step size: 4. Toggling door number 8.
+i: 5; j:5; step size: 5. Toggling door number 5.
+i: 5; j:10; step size: 5. Toggling door number 10.
+i: 6; j:6; step size: 6. Toggling door number 6.
+i: 7; j:7; step size: 7. Toggling door number 7.
+i: 8; j:8; step size: 8. Toggling door number 8.
+i: 9; j:9; step size: 9. Toggling door number 9.
+i: 10; j:10; step size: 10. Toggling door number 10.
+Algorithm has finished.
+
+
+Door number 1 remains open.
+Door number 4 remains open.
+Door number 9 remains open.
+
+
+
+
+Door number 2 remains closed.
+Door number 3 remains closed.
+Door number 5 remains closed.
+Door number 6 remains closed.
+Door number 7 remains closed.
+Door number 8 remains closed.
+Door number 10 remains closed.
+
+
+
+
+
+
+Test 2
+i: 1; j:1; step size: 1. Toggling door number 1.
+i: 1; j:2; step size: 1. Toggling door number 2.
+i: 1; j:3; step size: 1. Toggling door number 3.
+i: 1; j:4; step size: 1. Toggling door number 4.
+i: 1; j:5; step size: 1. Toggling door number 5.
+i: 1; j:6; step size: 1. Toggling door number 6.
+i: 1; j:7; step size: 1. Toggling door number 7.
+i: 1; j:8; step size: 1. Toggling door number 8.
+i: 1; j:9; step size: 1. Toggling door number 9.
+i: 1; j:10; step size: 1. Toggling door number 10.
+i: 1; j:11; step size: 1. Toggling door number 11.
+i: 1; j:12; step size: 1. Toggling door number 12.
+i: 1; j:13; step size: 1. Toggling door number 13.
+i: 1; j:14; step size: 1. Toggling door number 14.
+i: 1; j:15; step size: 1. Toggling door number 15.
+i: 1; j:16; step size: 1. Toggling door number 16.
+i: 1; j:17; step size: 1. Toggling door number 17.
+i: 1; j:18; step size: 1. Toggling door number 18.
+i: 1; j:19; step size: 1. Toggling door number 19.
+i: 1; j:20; step size: 1. Toggling door number 20.
+i: 2; j:2; step size: 2. Toggling door number 2.
+i: 2; j:4; step size: 2. Toggling door number 4.
+i: 2; j:6; step size: 2. Toggling door number 6.
+i: 2; j:8; step size: 2. Toggling door number 8.
+i: 2; j:10; step size: 2. Toggling door number 10.
+i: 2; j:12; step size: 2. Toggling door number 12.
+i: 2; j:14; step size: 2. Toggling door number 14.
+i: 2; j:16; step size: 2. Toggling door number 16.
+i: 2; j:18; step size: 2. Toggling door number 18.
+i: 2; j:20; step size: 2. Toggling door number 20.
+i: 3; j:3; step size: 3. Toggling door number 3.
+i: 3; j:6; step size: 3. Toggling door number 6.
+i: 3; j:9; step size: 3. Toggling door number 9.
+i: 3; j:12; step size: 3. Toggling door number 12.
+i: 3; j:15; step size: 3. Toggling door number 15.
+i: 3; j:18; step size: 3. Toggling door number 18.
+i: 4; j:4; step size: 4. Toggling door number 4.
+i: 4; j:8; step size: 4. Toggling door number 8.
+i: 4; j:12; step size: 4. Toggling door number 12.
+i: 4; j:16; step size: 4. Toggling door number 16.
+i: 4; j:20; step size: 4. Toggling door number 20.
+i: 5; j:5; step size: 5. Toggling door number 5.
+i: 5; j:10; step size: 5. Toggling door number 10.
+i: 5; j:15; step size: 5. Toggling door number 15.
+i: 5; j:20; step size: 5. Toggling door number 20.
+i: 6; j:6; step size: 6. Toggling door number 6.
+i: 6; j:12; step size: 6. Toggling door number 12.
+i: 6; j:18; step size: 6. Toggling door number 18.
+i: 7; j:7; step size: 7. Toggling door number 7.
+i: 7; j:14; step size: 7. Toggling door number 14.
+i: 8; j:8; step size: 8. Toggling door number 8.
+i: 8; j:16; step size: 8. Toggling door number 16.
+i: 9; j:9; step size: 9. Toggling door number 9.
+i: 9; j:18; step size: 9. Toggling door number 18.
+i: 10; j:10; step size: 10. Toggling door number 10.
+i: 10; j:20; step size: 10. Toggling door number 20.
+i: 11; j:11; step size: 11. Toggling door number 11.
+i: 12; j:12; step size: 12. Toggling door number 12.
+i: 13; j:13; step size: 13. Toggling door number 13.
+i: 14; j:14; step size: 14. Toggling door number 14.
+i: 15; j:15; step size: 15. Toggling door number 15.
+i: 16; j:16; step size: 16. Toggling door number 16.
+i: 17; j:17; step size: 17. Toggling door number 17.
+i: 18; j:18; step size: 18. Toggling door number 18.
+i: 19; j:19; step size: 19. Toggling door number 19.
+i: 20; j:20; step size: 20. Toggling door number 20.
+Algorithm has finished.
+
+
+Door number 1 remains open.
+Door number 4 remains open.
+Door number 9 remains open.
+Door number 16 remains open.
+
+
+
+
+Door number 2 remains closed.
+Door number 3 remains closed.
+Door number 5 remains closed.
+Door number 6 remains closed.
+Door number 7 remains closed.
+Door number 8 remains closed.
+Door number 10 remains closed.
+Door number 11 remains closed.
+Door number 12 remains closed.
+Door number 13 remains closed.
+Door number 14 remains closed.
+Door number 15 remains closed.
+Door number 17 remains closed.
+Door number 18 remains closed.
+Door number 19 remains closed.
+Door number 20 remains closed.
